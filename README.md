@@ -6,3 +6,4 @@ New line of code.
 Another line of code here.
 
 New code 1.
+New code 2.
